@@ -79,7 +79,8 @@ _Recommended: Run dev, worker, and scheduler in separate terminal tabs_
 
 ```bash
 cd ../client
-npm run dev
+npm install
+npm run dev 
 ```
 
 ### Final Output 
