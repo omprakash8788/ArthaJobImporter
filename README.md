@@ -83,5 +83,10 @@ npm install
 npm run dev 
 ```
 
+> ⚠️ **Important Note**  
+> This project is currently running the backend (`/server`) **locally only**.  
+> The Vercel frontend at [https://job-importer.vercel.app/](https://job-importer.vercel.app/) will **not load any data** unless your local backend server is running at `http://localhost:5000`.
+>
+> 
 ### Final Output 
 ![image](https://github.com/user-attachments/assets/d3262ecf-9958-4d6a-b490-75283078024f)
