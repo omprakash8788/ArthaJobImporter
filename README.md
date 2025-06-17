@@ -81,3 +81,6 @@ _Recommended: Run dev, worker, and scheduler in separate terminal tabs_
 cd ../client
 npm run dev
 ```
+
+### Final Output 
+![image](https://github.com/user-attachments/assets/d3262ecf-9958-4d6a-b490-75283078024f)
