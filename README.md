@@ -1,4 +1,3 @@
-
 ## 1- Folder Structure of Client and Server
 
 ```
