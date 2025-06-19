@@ -1,6 +1,6 @@
 ## 1- Folder Structure of Client and Server
 
-```
+``
 jobImporter/                    ← root of the repository
 │
 ├── /client/                           ← Next.js Admin UI
